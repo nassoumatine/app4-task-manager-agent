@@ -1,7 +1,9 @@
-python-dotenv
-langchain-core
-langchain-google-genai
-langchain
+python-dotenv~=1.1.1
+langchain-core~=0.3.76
+langchain-google-genai~=2.1.12
+langchain~=0.3.27
 todoist-api-python
 pydantic
 tzdata
+streamlit~=1.49.1
+todoist_api_python~=3.1.0
