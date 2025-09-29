@@ -16,8 +16,8 @@ Try the Streamlit app here 👉 [Todoist AI Assistant](https://nassoumatine-app4
 
 ---
 
-## 📂 Project Structure  
-.
+## Project Structure  
+
 
 ├── main.py    # Command-line interface version
 
