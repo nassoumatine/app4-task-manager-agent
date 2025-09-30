@@ -12,8 +12,8 @@ With natural language commands, you can:
 ---
 
 ## Live Demo  
-Watch a live demo here 👉[Todoist AI Assistant Video Demo](https://docs.google.com/videos/d/1D_mmVUJqtMHSUtPpzGn55-1gJhWRMANuH-tQEzHhCZk/edit?usp=sharing)
-Try the Streamlit app here 👉 [Todoist AI Assistant Web App](https://nassoumatine-app4-task-manager-agent-web-b5fklj.streamlit.app/)  
+- Watch a live demo here 👉[Todoist AI Assistant Video Demo](https://docs.google.com/videos/d/1D_mmVUJqtMHSUtPpzGn55-1gJhWRMANuH-tQEzHhCZk/edit?usp=sharing)
+- Try the Streamlit app here 👉 [Todoist AI Assistant Web App](https://nassoumatine-app4-task-manager-agent-web-b5fklj.streamlit.app/)  
 
 ---
 
